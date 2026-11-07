@@ -1,6 +1,6 @@
 # 🚦 Mobilidade Urbana e Segurança Viária no Recife (2024)
 
-Projeto prático da disciplina de Data Science (SENAC Pernambuco), desenvolvido pelo **Aluno 4** em equipe de 4 integrantes. O objetivo é integrar cinco fontes de dados abertos da Prefeitura do Recife para apoiar o planejamento da mobilidade urbana e da segurança viária.
+Projeto prático da disciplina de Data Science (Faculdade SENAC Pernambuco). O objetivo é integrar cinco fontes de dados abertos da Prefeitura do Recife para apoiar o planejamento da mobilidade urbana e da segurança viária.
 
 ## 📊 Fontes de Dados
 
@@ -30,6 +30,7 @@ Projeto_Mobilidade_Recife/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+├── index.html                  <-- Dashboard interativo (GitHub Pages)
 ├── ETLs/
 │   ├── ETL_01_Chamados.ipynb
 │   ├── ETL_02_Infracoes.ipynb
@@ -41,7 +42,7 @@ Projeto_Mobilidade_Recife/
 │   ├── Modelo_de_Banco.png
 │   └── Relatorio_Qualidade/
 ├── Dashboard/
-│   └── dashboard_mobilidade_recife.html
+│   └── Dashboard.ipynb         <-- Código-fonte para gerar o index.html
 └── Relatorio_Final.pdf
 ```
 
@@ -91,5 +92,5 @@ Consulte o arquivo `Relatorio_Final.pdf` para a análise descritiva completa, in
 Este projeto apresenta **análises descritivas**. Dados cadastrais ≠ dados operacionais. A presença de infraestrutura ou equipamentos **não implica relação causal** com a ocorrência de sinistros. Recomenda-se cautela na interpretação dos resultados.
 
 **Professor:** Heuryk Wylk  
-**Instituição:** SENAC Pernambuco  
+**Instituição:** Faculdade SENAC Pernambuco  
 **Data:** Novembro de 2026
