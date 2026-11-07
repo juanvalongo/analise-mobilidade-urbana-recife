@@ -11,7 +11,7 @@ Acesse o dashboard interativo diretamente pelo GitHub Pages:
 
 | Ref. | Conjunto | Formato | Registros |
 |------|----------|---------|-----------|
-| S1 | Chamados de Sinistros de Trânsito | CSV | 404.975 |
+| S1 | Chamados de Sinistros de Trânsito | CSV | 5.279 |
 | S2 | Registro das Infrações de Trânsito | CSV | 404.975 |
 | S3 | Malha Cicloviária | GeoJSON | 79 segmentos (186,09 km) |
 | S4 | Estações de Bikes | CSV | 90 estações |
