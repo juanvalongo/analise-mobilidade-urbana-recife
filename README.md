@@ -24,22 +24,26 @@ Projeto prático da disciplina de Data Science (SENAC Pernambuco), desenvolvido 
 - Streamlit / HTML estático (dashboard)
 
 ## 📁 Estrutura do Projeto
+
+```text
 Projeto_Mobilidade_Recife/
+├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── ETLs/
-│ ├── ETL_01_Chamados.ipynb
-│ ├── ETL_02_Infracoes.ipynb
-│ ├── ETL_03_Malha_Cicloviaria.ipynb
-│ ├── ETL_04_Estacoes_Bikes.ipynb
-│ └── ETL_05_Equipamentos_Fiscalizacao.ipynb
+│   ├── ETL_01_Chamados.ipynb
+│   ├── ETL_02_Infracoes.ipynb
+│   ├── ETL_03_Malha_Cicloviaria.ipynb
+│   ├── ETL_04_Estacoes_Bikes.ipynb
+│   └── ETL_05_Equipamentos_Fiscalizacao.ipynb
 ├── Documentacao/
-│ ├── Dicionario_de_Dados.md
-│ ├── Modelo_de_Banco.png
-│ └── Relatorio_Qualidade/
+│   ├── Dicionario_de_Dados.md
+│   ├── Modelo_de_Banco.png
+│   └── Relatorio_Qualidade/
 ├── Dashboard/
-│ └── dashboard_mobilidade_recife.html
+│   └── dashboard_mobilidade_recife.html
 └── Relatorio_Final.pdf
+```
 
 ## ▶️ Instruções de Execução
 
