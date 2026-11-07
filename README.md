@@ -2,6 +2,11 @@
 
 Projeto prático da disciplina de Data Science (Faculdade SENAC Pernambuco). O objetivo é integrar cinco fontes de dados abertos da Prefeitura do Recife para apoiar o planejamento da mobilidade urbana e da segurança viária.
 
+## 🌐 Dashboard Online (Ao Vivo)
+
+Acesse o dashboard interativo diretamente pelo GitHub Pages:  
+👉 **[https://juanvalongo.github.io/analise-mobilidade-urbana-recife/](https://juanvalongo.github.io/analise-mobilidade-urbana-recife/)**
+
 ## 📊 Fontes de Dados
 
 | Ref. | Conjunto | Formato | Registros |
