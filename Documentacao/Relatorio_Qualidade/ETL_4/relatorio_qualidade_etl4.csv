@@ -1,0 +1,6 @@
+﻿etapa,quantidade,percentual
+Registros brutos lidos,90,100.00%
+Coordenadas inválidas/nulas (rejeitadas),0,0.00%
+"Códigos duplicados (mantidos, mas alertados)",0,0.00%
+Estações fora dos limites de bairro,11,12.22%
+Registros carregados na fato,90,100.00%

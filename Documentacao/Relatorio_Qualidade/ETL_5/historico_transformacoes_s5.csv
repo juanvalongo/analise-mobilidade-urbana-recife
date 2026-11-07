@@ -1,0 +1,7 @@
+ordem,variavel,problema,acao,justificativa,impacto
+1,todas as colunas,"nomes com espaços, maiúsculas ou hífens",padronização para snake_case minúsculo,facilita acesso programático e evita erros de digitação,12 colunas renomeadas
+2,identificacao_equipamento,"valores vazios, 'nan' ou espaços",criação de id_equipamento limpo + conversão de vazios para NaN,garante identificador textual estável para auditoria,0 registros sem identificador válido
+3,tipo_equipamento,grafias variadas (maiúsculas/minúsculas),padronização com .title(),uniformiza categorias para agregação,1 tipos únicos após padronização
+4,latitude e longitude,"vírgula decimal, nulos e coordenadas fora do Recife",conversão para float + validação por bounding box do Recife,garante que apenas pontos dentro do município sejam usados no join espacial,0 lat nulas | 0 lon nulas | 0 fora da bbox | 87 válidas
+5,id_equipamento,possíveis repetições de identificador,flag 'repetido_id' criada (sem remoção),preserva dados para auditoria; remoção só com critério explícito,2 linhas marcadas como repetidas
+6,local_instalacao,valores vazios ou 'nan',limpeza de espaços e conversão para NaN,padroniza campo textual para análises e mapas,0 registros sem local informado

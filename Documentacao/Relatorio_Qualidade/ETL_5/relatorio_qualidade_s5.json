@@ -1,0 +1,40 @@
+{
+    "etl": "S5_Equipamentos_Fiscalizacao",
+    "data_geracao": "2026-11-06T17:56:26.415156",
+    "fonte_dados": {
+        "dataset": "Equipamentos de Monitoramento e Fiscalização de Trânsito",
+        "resource_id": "36c2b47b-f439-4895-8b65-3f3dda36a4a7",
+        "url_origem": "https://dados.recife.pe.gov.br:443/dataset/9acffb30-ed06-4b16-84ff-710478f18760/resource/36c2b47b-f439-4895-8b65-3f3dda36a4a7/download/lista-de-equipamentos-de-fiscalizacao-de-transito.csv",
+        "data_extracao": "2026-11-06T17:23:36.982173",
+        "sha256": "ec12efdf73c3c644e600413536878d767fb1b5a7856e32a80a0511eb1c6792e9"
+    },
+    "resumo_qualidade": {
+        "linhas_lidas_bruto": 87,
+        "linhas_rejeitadas_coord_invalida": 0,
+        "linhas_carregadas_dim_equipamento": 87,
+        "percentual_sem_geolocalizacao": 0.0,
+        "taxa_retention": 100.0
+    },
+    "taxa_nulos_campos_essenciais": {
+        "identificacao_equipamento": {
+            "nulos": 0,
+            "percentual": 0.0
+        },
+        "tipo_equipamento": {
+            "nulos": 0,
+            "percentual": 0.0
+        },
+        "local_instalacao": {
+            "nulos": 0,
+            "percentual": 0.0
+        },
+        "latitude": {
+            "nulos": 0,
+            "percentual": 0.0
+        },
+        "longitude": {
+            "nulos": 0,
+            "percentual": 0.0
+        }
+    }
+}

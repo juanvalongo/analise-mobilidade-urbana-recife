@@ -1,0 +1,15 @@
+{
+    "S3": {
+        "titulo": "Malha Cicloviária do Recife",
+        "geojson_url": "https://dados.recife.pe.gov.br:443/dataset/8512f8d0-b0be-4880-9fbd-3d568c65ca1a/resource/c67fa150-8c69-4f6d-8fca-8204fdd61e35/download/rotas-ciclaveis-do-recife-conecta-.geojson",
+        "geojson_resource_id": "c67fa150-8c69-4f6d-8fca-8204fdd61e35",
+        "csv_url": "https://dados.recife.pe.gov.br:443/dataset/8512f8d0-b0be-4880-9fbd-3d568c65ca1a/resource/6d2e322b-70ce-424c-93fa-073b02ff4b17/download/rotas-operacionais-domingos-e-feriados.csv",
+        "csv_resource_id": "6d2e322b-70ce-424c-93fa-073b02ff4b17"
+    },
+    "S6": {
+        "titulo": "Mapas de limites e divisões territoriais",
+        "bairros_geojson_url": "https://dados.recife.pe.gov.br:443/dataset/ce23d3f4-7474-44d3-b310-19f3afcebf4a/resource/d5f956ce-7e1f-4c74-839b-06cb490c3721/download/limites-dos-bairros-2023.geojson",
+        "bairros_resource_id": "d5f956ce-7e1f-4c74-839b-06cb490c3721"
+    },
+    "data_consulta": "2026-11-06T16:24:43.997350"
+}

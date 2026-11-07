@@ -1,0 +1,12 @@
+{
+    "S4_Estacoes": {
+        "url": "https://dados.recife.pe.gov.br:443/dataset/a5729275-e566-4c3d-8535-154db5811817/resource/26014b26-510a-4805-a9ab-55ade61c3715/download/estacoes-de-bikes-bike-pe.csv"
+    },
+    "S3_Malha": {
+        "url": "https://dados.recife.pe.gov.br:443/dataset/8512f8d0-b0be-4880-9fbd-3d568c65ca1a/resource/1c9feb5e-38ad-4235-b3d2-771964c59c46/download/rotas-ciclaveis-do-recife-permanente.geojson"
+    },
+    "S6_Bairros": {
+        "url": "https://dados.recife.pe.gov.br:443/dataset/ce23d3f4-7474-44d3-b310-19f3afcebf4a/resource/d5f956ce-7e1f-4c74-839b-06cb490c3721/download/limites-dos-bairros-2023.geojson"
+    },
+    "data_consulta": "2026-11-06T22:42:55.065974"
+}

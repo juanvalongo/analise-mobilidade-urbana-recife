@@ -1,0 +1,15 @@
+{
+    "ref_fonte": "S1",
+    "dataset_id": "acidentes-de-transito-com-e-sem-vitimas",
+    "dataset_title": "Chamados de Sinistros (Acidentes) de Trânsito com e sem vitimas 2015 a 2024",
+    "resource_id": "87ac4237-f5f9-44d2-bcf1-927aaa0a2d31",
+    "resource_name": "Acidentes de Trânsito 2024",
+    "format": "CSV",
+    "datastore_active": true,
+    "resource_url": "https://dados.recife.pe.gov.br:443/dataset/fdd001d5-05ba-46cd-9edf-5c5a6b58351f/resource/87ac4237-f5f9-44d2-bcf1-927aaa0a2d31/download/acidentes-de-transito-2024.csv",
+    "license": "Open Data Commons Open Database License (ODbL)",
+    "resource_created": "2026-03-02T13:44:36.480916",
+    "resource_last_modified": "2026-03-02T13:44:36.437920",
+    "extraction_timestamp": "2026-11-06T03:21:06.387254",
+    "recorte_temporal": "2024"
+}
